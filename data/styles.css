@@ -48,35 +48,36 @@
   font-size:10px;
   text-align:left;
 }
-._文本段落 {
-  text-align:left;
-}
-._形状 {
-}
-._水平线 {
-}
-._流程形状 {
-}
-._垂直线 {
-}
-.image {
-}
-._图片 {
-  color:#000000;
-}
-.box_1 {
-}
 .label {
   font-size:14px;
   text-align:left;
 }
-.button {
-}
-.placeholder {
+._文本段落 {
+  text-align:left;
 }
 ._连接线 {
 }
+._形状 {
+}
+.box_1 {
+}
+.box_2 {
+}
+.ellipse {
+}
+.image {
+}
+.placeholder {
+}
+.button {
+}
 ._图片_ {
 }
+._水平线 {
+}
 .line {
+}
+._垂直线 {
+}
+.icon {
 }
